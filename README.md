@@ -13,6 +13,6 @@ Basic HTML Only Website – Resume style layout
 ## 🌐 Live Project
 
 You can view the project here:  
-🔗 [https://Nidhi-ndE.github.io/resume-project/](https://Nidhi-nd.github.io/resume-project/)
+🔗 [https://Nidhi-nd.github.io/resume-project/](https://Nidhi-nd.github.io/resume-project/)
 
 
